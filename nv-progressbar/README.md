@@ -1,6 +1,7 @@
 # progressbar
 Dependency For QB-Core
 Dependency For my  NV-Core -- ( if your using my NVCore then remove QBCore everwhere from this file and enjoy )
+ 
 
 Circular Progressbar with access to font awesome icons to change with.
 
